@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JensdegTools", "JensdegTools.csproj", "{F75938D1-D472-4F4E-865A-F6CE26D12587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F75938D1-D472-4F4E-865A-F6CE26D12587}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{F75938D1-D472-4F4E-865A-F6CE26D12587}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{F75938D1-D472-4F4E-865A-F6CE26D12587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75938D1-D472-4F4E-865A-F6CE26D12587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FA27849-7D33-42B9-9095-C54A1B99466D}
+	EndGlobalSection
+EndGlobal
