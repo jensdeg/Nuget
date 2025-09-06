@@ -1,9 +1,10 @@
 ﻿namespace JensdegTools
 {
+    /// <summary>
+    /// Provides extension methods for various data types.
+    /// </summary>
     public static class Extensions
     {
-        #region INT_EXTENSIONS
-
         /// <summary>
         /// Converts the digits of the specified integer to their corresponding letter representations.
         /// </summary>
@@ -36,6 +37,5 @@
             }
             return result;
         }
-        #endregion
     }
 }

@@ -9,6 +9,6 @@
     <Title>JensdegTools</Title>
     <Authors>Jensdeg</Authors>
     <Description>Mijn tools</Description>
+	<GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
-
 </Project>
