@@ -1,6 +1,9 @@
 ﻿namespace JensdegTools.Extensions
 {
-    internal static class IntExtensions
+    /// <summary>
+    /// Provides extension methods for ints.
+    /// </summary>
+    public static class IntExtensions
     {
         /// <summary>
         /// Converts the digits of the specified integer to their corresponding letter representations.
